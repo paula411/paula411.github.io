@@ -1,9 +1,0 @@
-body{
-	margin: 25px 50px 75px 100px;
-	background: url(satu.jpg) no-repeat; 
-	background-size: cover;
-}
-@import url('https://fonts.googleapis.com/css2?family=Antonio:wght@200&display=swap');
-table, th, td	{
-	font-family: 'Antonio', sans-serif;
-}
