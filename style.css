@@ -3,7 +3,7 @@ body{
 	background: url(satu.jpg) no-repeat; 
 	background-size: cover;
 }
-@import url('https://fonts.googleapis.com/css2?family=Antonio:wght@200&family=Orelega+One&display=swap');
-table, th, td {
-	font-family: 'Orelega One', cursive;
+@import url('https://fonts.googleapis.com/css2?family=Antonio:wght@200&display=swap');
+table, th, td	{
+	font-family: 'Antonio', sans-serif;
 }
